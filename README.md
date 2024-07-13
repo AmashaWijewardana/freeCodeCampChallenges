@@ -5,7 +5,6 @@ freeCodeCamp Challenges codes
   <head>
     <meta charset="UTF-8">
     <title>City Skyline</title>
-    <link href="styles.css" rel="stylesheet" />
     <style>
       :root {
     --building-color1: #aa80ff;
